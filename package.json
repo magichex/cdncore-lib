@@ -1,7 +1,7 @@
 {
-  "name": "bitcore-lib",
+  "name": "cdncore-lib",
   "version": "0.13.19",
-  "description": "A pure and powerful JavaScript Bitcoin library.",
+  "description": "A pure and powerful JavaScript CanadaEcoin library.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -74,7 +74,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-lib.git"
+    "url": "https://github.com/magichex/cdncore-lib.git"
   },
   "browser": {
     "request": "browser-request"
